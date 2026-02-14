@@ -19,7 +19,7 @@
 ---
 
 # 💻 Sobre o Projeto
-Neste projeto foram utilizados um agente:
+Neste projeto foi utilizado um agente:
 - Na qual era voltado para **entrevista de carreira tech mais técnica.**    
 
 O **Copilot** foi utilizado para estruturar e organizar este projeto.
